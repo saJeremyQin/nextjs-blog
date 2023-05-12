@@ -22,7 +22,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[I am a software developer living in Adelaide, I have a solid knowledge on React/React Native/HTML/CSS/JavaScript/NextJS/NodeJS/Python/GraphQL/MongoDB]</p>
+        <p>[I am a software developer living in Adelaide, 4 years experience as a front-End developer and about 9 years experience in Mobile Development. I have a solid knowledge on React/React Native and HTML/CSS/JavaScript/TypeScript/NextJS for frontEnd, NodeJS/Python/GraphQL/MongoDB/SQL Server for backEnd]</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
